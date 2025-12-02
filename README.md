@@ -147,6 +147,8 @@ The dashboard is the user-facing summary that provides key insights and interact
 
 <img width="1774" height="1218" alt="image" src="https://github.com/user-attachments/assets/4abdcd4e-739e-4ad9-8045-d30fb4835261" />
 
+
+
 <img width="1773" height="1220" alt="image" src="https://github.com/user-attachments/assets/98200814-0f12-4574-bb1e-d8f946c21cb8" />
 
 ### 7.1. Key Performance Indicators (KPIs)
