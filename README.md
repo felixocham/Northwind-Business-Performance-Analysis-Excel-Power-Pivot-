@@ -205,6 +205,9 @@ To ensure the longevity and scalability of this BI solution, the following enhan
 
 * **Inventory Optimisation Model:** Enhancing the current "Stock Highlight" logic to include lead time variability and seasonal demand spikes for more accurate reorder recommendations.
 
+---
+*Created by Felix Ocham  |  [Linkedin Profile](https://www.linkedin.com/in/felix-o-703987a7/)*
+
 
 
 
